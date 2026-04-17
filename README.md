@@ -71,7 +71,7 @@ Pushing to `main` triggers an automated test run via GitHub Actions.
 **Only push to `main` when you are ready for final submission.**
 For saving work-in-progress remotely, create a separate branch.
 
-**Deadline:** Sundays at 23:59 of the same week the assignment is released.
+**Deadline:** Tuesday, 5 May 2026, end of day.
 
 ---
 
