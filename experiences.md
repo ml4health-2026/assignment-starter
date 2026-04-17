@@ -11,6 +11,8 @@ If you solved the exercise but still have questions about your solution or the c
 
 General questions should be posted to the course forum on ILIAS.
 
+If you have feedback about the exercise itself — what was unclear, too easy, too hard, or could be improved — please write it here as well. We read every submission and use your feedback to improve future assignments.
+
 ---
 
 *Your notes below:*
