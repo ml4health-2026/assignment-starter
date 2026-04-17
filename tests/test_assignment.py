@@ -1,11 +1,6 @@
-"""
-Placeholder tests for the assignment template.
-These will be replaced with actual tests in each assignment.
-"""
-
-import pytest
+from assignment import class_names
 
 
-def test_placeholder():
-    """This test will be replaced with real assignment tests."""
-    assert True
+def test_class_names():
+    result = class_names()
+    assert result == ["glioma", "meningioma", "no_tumor", "pituitary"]
